@@ -1,7 +1,9 @@
-body{
-    background-color: pink;
-    color: white;
+body {
+  background-color: blanchedalmond;
+  color: black;
+  margin: 10vw;
 }
-.titulo{
-    text-align: center;
+
+.titulo {
+  text-align: center;
 }
